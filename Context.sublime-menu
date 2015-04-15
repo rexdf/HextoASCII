@@ -1,6 +1,7 @@
 [
     {
         "caption": "Hex-Dec-Bin",
+        "id": "hex_dec_bin",
         "children": [
             {
                 "command": "ascii_to_hex"
